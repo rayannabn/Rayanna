@@ -1,0 +1,31 @@
+form{
+  padding-left: 450px;
+  padding-top: 85px;
+}
+.Registration{
+  background-image:url("enjoy.jpg");
+  width:400px;
+  height:400px;
+  text-align: center
+
+}
+.login{
+  background-image:url("enjoy.jpg");
+  width:400px;
+  height:300px;
+  text-align: center
+
+}
+h2{
+  padding-top: 45px;
+  text-align: center;
+}
+button{
+  color: blue;
+  background-color: light green;
+}
+.main{
+  text-align: center;
+  color: red ;
+
+}
